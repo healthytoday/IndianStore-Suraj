@@ -1,5 +1,5 @@
 # IndianStore-Suraj
-*NOTICE*
+**NOTICE**
 <html>
 <body> 
 Dear customer,
