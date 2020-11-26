@@ -7,6 +7,6 @@ Dear customer,
 We shall be back very soon. We are doing our best to reinsate our store ASAP <p>
 Should you have any questions or concerns related to your previous orders or any other matter you may drop us an email at : <b> help@suraj.fun </b>
 <p> We would be happy to assist you all time. <p>
-Thank you for understanding. <p>
+Thank You for understanding. <p>
 Team, <p>
   IndianStore-Suraj
